@@ -1,6 +1,6 @@
 public with sharing class OpportunityUtils implements OpportunityUtilsIF {
 
-    public static Double BIG_DEAL_AMOUNT=300000;
+    public static Double BIG_DEAL_AMOUNT=250000;
 
     public OpportunityUtils() {
     }
